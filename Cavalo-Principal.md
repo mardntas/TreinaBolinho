@@ -6,4 +6,5 @@ Kimeros
 47 anos
 ### Personalidade
 Personalidade forte, estrategico
-### Historia
+### Caracteristicas
+Ele é um personagem não muito atraente, que ainda continua no seu emprego não muito, mas ainda continua com suas convicções.
