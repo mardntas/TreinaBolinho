@@ -9,14 +9,15 @@
 - Cavalo fala?
     - Sim
 - Se o cavalo vai se apaixonar por outro cavalo?
-    - sim 
+    - Sim 
 - Se o cavalo vai participar do bang-bang
-    - livre
+    - Livre
 - Relações com outros personagens
-    - boa
+    - Boa
 - Plot twist
     - Amor dele
-
+    - Pode envolver outro personagem
+    - Traição (Coisa em volta)
 
 Ele não se dá bem no final
 
